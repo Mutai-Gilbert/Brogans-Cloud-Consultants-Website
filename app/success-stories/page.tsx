@@ -68,7 +68,7 @@ export default function SuccessStories() {
               quote="Brogans Cloud Consultants helped us leverage AI to analyze patient data and predict potential health issues before they become serious. This has significantly improved our preventive care capabilities and patient outcomes."
               person="Dr. Michael Chen"
               role="Medical Director, MediCare Plus"
-              image="/brogans.png"
+              image="/brogans.jpg"
               reverse
             />
 

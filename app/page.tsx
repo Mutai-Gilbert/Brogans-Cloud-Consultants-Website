@@ -16,7 +16,7 @@ export default function Home() {
         {/* Hero Image */}
         <div className="absolute inset-0">
           <Image
-            src="/brogans.png"
+            src="/brogans.jpg"
             alt="Modern office space in Nairobi"
             fill
             priority
